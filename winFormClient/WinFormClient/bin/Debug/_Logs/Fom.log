@@ -1,0 +1,13 @@
+﻿2019-12-01 12:28:13,515 INFO [1] WinFormClient.Form1..ctor - Start Application
+2019-12-01 12:28:14,820 ERROR [4] WinFormClient.Form1+<callService>d__6.MoveNext - Error When calling the web Service Échec de l'initialisation du système de configuration
+2019-12-01 12:29:26,932 INFO [1] WinFormClient.Form1..ctor - Start Application
+2019-12-01 12:29:28,504 ERROR [4] WinFormClient.Form1+<callService>d__6.MoveNext - Error When calling the web Service Échec de l'initialisation du système de configuration
+2019-12-01 12:30:12,200 ERROR [5] WinFormClient.Form1+<callService>d__6.MoveNext - Error When calling the web Service Échec de l'initialisation du système de configuration
+2019-12-01 12:30:33,479 ERROR [5] WinFormClient.Form1+<callService>d__6.MoveNext - Error When calling the web Service Échec de l'initialisation du système de configuration
+2019-12-01 12:33:47,619 INFO [1] WinFormClient.Form1..ctor - Start Application
+2019-12-01 12:33:59,111 ERROR [4] WinFormClient.Form1+<callService>d__6.MoveNext - Error When calling the web Service Échec de l'initialisation du système de configuration
+2019-12-01 12:36:12,365 INFO [1] WinFormClient.Form1..ctor - Start Application
+2019-12-01 12:36:21,854 INFO [4] WinFormClient.Form1+<callService>d__6.MoveNext - caling the service at http://localhost:52492/Service.asmx
+2019-12-01 12:36:25,737 INFO [4] WinFormClient.Form1+<callService>d__6.MoveNext - Resposne is OK
+2019-12-01 12:37:44,550 INFO [5] WinFormClient.Form1+<callService>d__6.MoveNext - caling the service at http://localhost:52492/Service.asmx
+2019-12-01 12:37:46,560 INFO [5] WinFormClient.Form1+<callService>d__6.MoveNext - Resposne is OK

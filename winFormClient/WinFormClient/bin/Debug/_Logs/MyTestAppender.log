@@ -1,0 +1,4 @@
+﻿2019-12-01 12:18:13,438 INFO [1] WinFormClient.Form1..ctor - Start Application
+2019-12-01 12:18:14,900 ERROR [4] WinFormClient.Form1+<callService>d__6.MoveNext - Error When calling the web Service Échec de l'initialisation du système de configuration
+2019-12-01 12:19:56,099 INFO [1] WinFormClient.Form1..ctor - Start Application
+2019-12-01 12:19:57,552 ERROR [4] WinFormClient.Form1+<callService>d__6.MoveNext - Error When calling the web Service Échec de l'initialisation du système de configuration
